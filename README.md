@@ -1,6 +1,6 @@
 # ZPD
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Build Status](https://travis-ci.com/quocanh1897/zpd.svg?branch=master)
 ![Coverage Status](https://img.shields.io/badge/coverage-90%25-green)
 [![version](https://img.shields.io/badge/repo%20status-active-brightgreen)](https://github.com/zalopay-oss/zpd)
 [![version](https://img.shields.io/badge/contributors-2-blueviolet)](#tham-gia-phát-triển)
